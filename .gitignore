@@ -1,0 +1,4 @@
+CUDA_C_Programming_Guide.pdf
+*_cpu
+*_gpu
+device_query*
